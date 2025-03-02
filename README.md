@@ -1,5 +1,3 @@
-StudentScores
-
 This is a simple C++ program that manages student scores using a class-based approach. 
 It allows the user to:
 Insert student scores
